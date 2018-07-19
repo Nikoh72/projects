@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "164903693664",
+    "firebase_url": "https://gpppo-749e2.firebaseio.com",
+    "project_id": "gpppo-749e2",
+    "storage_bucket": "gpppo-749e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164903693664:android:40d85cdfebc5c79c",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.fbprojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164903693664-ibs4jdve36p1u8hd0nt6sdjunp4grhum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA228QcJWCg8dem4cEAYDTKWRqad_1E34s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

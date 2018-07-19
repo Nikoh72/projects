@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905759637504",
+    "firebase_url": "https://fir-dt1-10684.firebaseio.com",
+    "project_id": "fir-dt1-10684",
+    "storage_bucket": "fir-dt1-10684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905759637504:android:b7cf3f51fd1a3e5a",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905759637504-k8fctbt4gji24sjkr0acur4n15nmd39h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_Aztd2urSIm01wyVFGTPfDtMEbDdcU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
